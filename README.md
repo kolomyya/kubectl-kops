@@ -14,6 +14,8 @@ sudo mv kops-linux-amd64 /usr/local/bin/kops
 kops version
 
 
+### Kubectl
+
  1. Setup an auto complete
  as a  root 
 
